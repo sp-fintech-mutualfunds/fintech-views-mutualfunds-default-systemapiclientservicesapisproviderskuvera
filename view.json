@@ -1,12 +1,12 @@
 {
 	"name" : "SystemApiClientServicesApisProvidersKuvera",
-	"display_name" : "SP Framework Fintech SystemApiClientServicesApisProvidersKuvera View",
-	"description" : "<p>SystemApiClientServicesApisProvidersKuvera view</p>",
+	"display_name" : "Mutual Fund Apis Providers Kuvera View",
+	"description" : "<p>Mutual Fund Apis Providers Kuvera View</p>",
 	"module_type" : "views",
 	"app_type" : "fintech",
 	"category" : "mutualfunds",
 	"version" : "0.2.0",
-	"repo" : "https://github.com/sp-fintech/fintech-views-mutualfunds-default-systemapiclientservicesapisproviderskuvera",
+	"repo" : "https://github.com/sp-fintech-mutualfunds/fintech-views-mutualfunds-default-systemapiclientservicesapisproviderskuvera",
 	"dependencies" : 
 	{
 		"core" : 
